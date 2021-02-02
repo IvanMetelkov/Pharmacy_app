@@ -1,7 +1,7 @@
 Чтобы запустить проект в папке проекта Pharmacy_app-master необходимо выполнить:
-npm install
-npm install react-date-picker
-npm install bootstrap
+npm install;
+npm install react-date-picker;
+npm install bootstrap;
 
 Затем в основной папке проекта Pharmacy_app-master:
 npm run start
